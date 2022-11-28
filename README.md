@@ -4,4 +4,5 @@
 
 Добавили текст через браузер. Add english text in browser.
 
+Some another text.
 Bed text
